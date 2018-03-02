@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+}
+
+.fullwrap{
+	background-image: url("../img/body-bg.png");
+	background-repeat: repeat-x;
+	position: relative;
+}
+
+.header{
+	position:relative;
+	top:35px;
+	height:127px;
+	max-width: 950px;
+	margin: auto;
+}
+.menu{
+	position: relative;
+	top: 25px;
+	height: 27px;
+	border-bottom: 2px solid #d1dee4;
+}
+.menu a{
+	color: black;
+	background: #f3f6f7;
+	font-size: 13px;
+	font-weight: 700;
+	font-family: Arial;
+	padding: 10px 17px;
+	text-decoration: none;
+}
+a:hover {
+	background: #d1dee4;
+}

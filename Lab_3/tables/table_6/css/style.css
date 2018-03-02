@@ -1,0 +1,54 @@
+td{
+	empty-cells:hide;
+}
+table{
+	text-align:center;
+}
+.main td{
+	background:#7ebf47;
+	color:white;
+	font-size:10px;
+	font-weight:bold;
+	height:40px;
+	width:97px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+
+}
+.main_2 td{
+	font-size:12px;
+	font-weight:bold;
+	height:43px;
+	width:110px;
+}
+.value{
+	background:#ddf4c6;
+	font-size:10px;
+	color:#3f3d3d;
+}
+.company{
+	background:#7ebf47;
+	color:white;
+	height:34px;
+	width:110px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.main_2 img{
+	width:20px;
+	height:20px;
+}
+#price_per_month{
+	font-size:12px;
+	color:black;
+	font-weight:normal;
+	text-shadow:none;
+}
+.main_3 td{
+	background:white;
+	color:#accb30;
+	font-size:22px;
+	font-weight:bold;
+	text-shadow: 1px 1px 0 black
+}

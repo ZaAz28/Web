@@ -1,0 +1,78 @@
+table{
+	border-collapse: collapse;
+	width:190px;
+	height:326px;
+	text-align:center;
+	border-style: solid;
+	border-bottom-width:7px;
+	border-left-width:2px;
+	border-top-width:2px;
+	border-right-width:2px;
+}
+.table_1,.table_2,.table_3{
+	margin: auto 10px;
+}
+.table_1{
+	float:left;
+	border-color:#16a086;
+}
+.table_2{
+	float:left;
+	border-color:#f39c11;
+}
+.table_3{
+	float:left;
+	border-color:#c1392b;
+}
+#main_1{
+	background:#16a086;
+}
+#main_2{
+	background:#f39c11;
+}
+#main_3{
+	background:#c1392b;
+}
+.main{
+	color:white;
+	height:100px;
+	font-size:19px;
+}
+.price{
+	font-weight:bold;
+}
+.description{
+	color:grey;
+}
+.feature{
+	font-size:9px;
+	float:left;
+	padding-left:40px;
+	font-weight:bold;
+}
+.feature_desc{
+	font-size:9px;
+	float:left;
+	padding-left:4px;
+}
+
+.sign_in{
+	height:63px;
+}
+.sign_in button{
+    color: white;
+	border:none;
+	height:40px;
+	width:92px;
+	
+}
+#sign_in_1 button{
+	background-color: #16a086;
+}
+#sign_in_2 button{
+	background-color: #f39c11;
+}
+#sign_in_3 button{
+	background-color: #c1392b;
+}
+

@@ -1,0 +1,33 @@
+table,tr,td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+td:nth-child(even){
+	background-color:#e5ffb8;
+}
+tr{
+	height:20px;
+	font-size:11px;
+}
+.main{
+	background:#81b422;
+	color:white;
+	font-weight:bold;
+	text-align:center;
+}
+.value{
+	background:#efffd3;
+	color:black;
+	width:100px;
+	text-align:left;
+}
+.name{
+	background:#efffd3;
+	color:black;
+	width:67px;
+	text-align:left;
+}
+.Maths{
+	width:56px;
+	text-align:left;
+}

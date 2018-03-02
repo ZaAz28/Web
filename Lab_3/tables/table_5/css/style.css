@@ -1,0 +1,37 @@
+.fullwrap{
+	background:#e3c1b9;
+}
+td{
+	height:80px;
+	width:304px;
+	empty-cells:hide;
+}
+.table{
+	margin:auto 15px;
+}
+table{
+	text-align:center;
+	font-weight:bold;
+	border-spacing:0px;
+}
+.main{
+	background:#22282a;
+	color:white;
+
+}
+.value{
+	background:#e7e7e7;
+	color:#3f3d3d;
+}
+.company{
+	background:#da4a3f;
+	color:white;
+}
+.value button{
+	color: white;
+	background:#da4a3f; 
+	border: 1px solid #da4a3f;
+	border-radius: 3px;
+	height:40px;
+	width:110px;
+}
