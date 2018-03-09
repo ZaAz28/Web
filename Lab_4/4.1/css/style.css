@@ -1,0 +1,124 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+.fullwrap
+{
+	margin: auto;
+	min-width: 600px;
+	min-height: 450px;
+	width: 600px;
+	height: 450px;
+	padding: 4px;
+}
+
+.main {
+	position: relative;
+    border: 4px solid #3366ff;
+    width: 100%;
+    height: 100%;
+}
+
+.line1 {
+    position: absolute;
+    top: 20px;
+    left: 33%;
+    border-left: 1px solid #3366ff;
+    width: 0px;
+    height: 380px;
+}
+
+.line2 {
+    position: absolute;
+    top: 20px;
+    right: 33%;
+    border-left: 1px solid #3366ff;
+    width: 0px;
+    height: 380px;
+}
+
+.box
+{
+	height: 36px;
+	width: 36px;
+	background: #3366ff;
+}
+
+.text
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 36px;
+	font-weight: bold;
+}
+
+.box1
+{
+    position: absolute;
+    top: 52px;
+    left: 6px;
+}
+
+.box2
+{
+	position: absolute;
+    top: 91px;
+    left: 41px;
+}
+
+.box3
+{
+	position: absolute;
+    top: 182px;
+    left: 146px;
+}
+
+.box4
+{
+    position: absolute;
+    top: 75px;
+    left: 301px;
+}
+
+.box5
+{
+	position: absolute;
+    top: 183px;
+    left: 477px;
+}
+
+.text1
+{
+    position: absolute;
+    top: 53px;
+    left: 49px;
+}
+
+.text2
+{
+	position: absolute;
+    top: 90px;
+    left: 84px;
+}
+
+.text3
+{
+	position: absolute;
+    top: 178px;
+    left: 62px;
+}
+
+.text4
+{
+    position: absolute;
+    top: 85px;
+    left: 246px;
+}
+
+.text5
+{
+	position: absolute;
+    top: 178px;
+    left: 453px;
+}
